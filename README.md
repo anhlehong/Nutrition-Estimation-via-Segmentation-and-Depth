@@ -126,4 +126,4 @@ We welcome contributions! Please submit issues or pull requests via GitHub with 
 
 ## Contact
 
-For questions or support, contact us at [anhlh.cv@gmail.com]
+For questions or support, contact us at anhlh.cv@gmail.com
