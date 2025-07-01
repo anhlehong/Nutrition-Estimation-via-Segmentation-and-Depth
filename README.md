@@ -122,7 +122,7 @@ We welcome contributions! Please submit issues or pull requests via GitHub with 
 
 ## License
 
-[MIT License] - Update this section based on your preferences.  
+[MIT License](LICENSE)
 
 ## Contact
 
