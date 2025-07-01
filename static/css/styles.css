@@ -1,0 +1,55 @@
+/* Body styling */
+body {
+    background-color: #f0f8ff;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Header styling */
+header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+header p {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+/* Form container styling */
+.form-container {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Form elements */
+.form-label {
+    font-weight: bold;
+    color: #495057;
+}
+
+button.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    transition: all 0.3s;
+}
+
+button.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+/* Results section */
+#result {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#result h3 {
+    color: #007bff;
+    font-weight: bold;
+}
