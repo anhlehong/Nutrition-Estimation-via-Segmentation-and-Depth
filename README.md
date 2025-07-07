@@ -68,7 +68,7 @@ Download and place the following pre-trained models in the specified directories
 
 ## Results
 
-Our model achieves a **Mean Relative Error (MRE)** of **11.18% to 50.35%** for single food items, with consistent performance across complex meal scenarios. It outperforms baseline methods (e.g., Graikos et al., 2020) in both single and multi-food contexts, demonstrating robustness and practical utility.  
+Our model achieves a **Mean Relative Error (MRE)** of **11.18% to 50.35%** for single food items, with consistent performance across complex meal scenarios. It outperforms baseline methods (Graikos et al., 2020) in both single and multi-food contexts, demonstrating robustness and practical utility.  
 
 ## Installation and Setup
 
