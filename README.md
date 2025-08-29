@@ -16,6 +16,24 @@ The research behind this project is published in:
 
 > Le, Anh, Anh Do, Thanh Nguyen, Binh Nguyen, An Tran, and Nha Tran. 2025. “Estimating Nutritional Composition from Food Volume Via Deep Learning-Based Depth and Segmentation Models”. *Asian Journal of Research in Computer Science* 18 (5):219-33. https://doi.org/10.9734/ajrcos/2025/v18i5650.  
 
+## Video Demo
+
+We have developed a mobile application that integrates our nutrition estimation method, enabling users to analyze food images and track dietary intake seamlessly. The demonstration video showcases the app’s key features, including:  
+- User authentication and profile configuration.  
+- Capturing and analyzing food images to estimate nutritional content.  
+- Creating and managing personalized daily nutrition plans.  
+- Viewing nutrition history and weight tracking charts.  
+
+Watch the demo here: [Video Demo](https://youtu.be/H5-OwkxSjV8)  
+
+## Repositories
+
+To bring our nutrition estimation method to practical use, we developed a mobile application with a robust frontend and backend. The source code is available in the following repositories:  
+- **Frontend**: [Nutrition App Mobile](https://github.com/TuananhDo0308/nutrition-app-mobile)  
+- **Backend**: [Nutrition App Backend](https://github.com/tquocan04/nutritionapp-backend)  
+
+*Note*: Contributions to the codebase are welcome but should be limited to critical bug fixes or minor updates to ensure project stability. Please review the contributing guidelines before submitting changes.  
+
 ## Key Features
 
 - **Depth Estimation**: Predicts depth maps from single images using a self-supervised U-Net model.  
