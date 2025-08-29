@@ -2,7 +2,7 @@
 
 ## Method Overview
 
-![Method Overview](https://res.cloudinary.com/dapvvdxw7/image/upload/v1751361408/Method_gvgahz.png)  
+![Method Overview](./public/Method-Overview.png)  
 
 Our approach integrates a **U-Net architecture with a ResNet18 encoder** for depth prediction and employs **FoodSAM** for precise food segmentation. These components work together to calculate food volume and mass, which are then used to estimate nutritional content based on the USDA database. This method demonstrates robustness in handling diverse food types and complex meal compositions, offering a practical tool for dietary tracking and public health applications.  
 
